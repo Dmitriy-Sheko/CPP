@@ -11,7 +11,7 @@ using namespace std;
 
     void prnt_array(int* array, size_t arraySize)
     {
-        cout << "Array: ";
+        cout << "Enter array size: ";
         for (size_t i = 0; i < arraySize; i++)
         {
             cout << array[i] << " ";
